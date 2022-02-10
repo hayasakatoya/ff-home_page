@@ -1,0 +1,334 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  margin-right: 5%;
+}
+#first-block {
+  background-color: #497753;
+  background-size: cover;
+  width: 100%;
+  height: 550px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.title-container {
+  text-align: center;
+}
+
+h6 {
+  /* カスタマイズを、もっと自由に。 */
+
+font-family: Rosario;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+letter-spacing: 0.2em;
+
+color: #FFF5D3;
+}
+
+h2 {
+  /* My custom */
+
+font-family: Rosario;
+font-style: normal;
+font-weight: bold;
+font-size: 96px;
+line-height: 116px;
+text-align: center;
+letter-spacing: 0.35em;
+
+color:#FFF5D3;
+}
+
+
+/*   Second block   */
+#second-block
+
+.title-container {
+  height: 300px;
+  width: auto;
+  background:#FFF5D3;
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+/* 憧れのスタバのカスタマイズが、あなたも気軽にできるように。 そんなアプリを使ってみませんか？ */
+
+font-family: Rosario;
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 48px;
+text-align: center;
+letter-spacing: 0.05em;
+color: #64513A;
+}
+
+
+.container {
+  
+  display: flex;
+  justify-content: space-around;
+  height: 500px;
+  background: rgba(73, 119, 83, 0.6)
+
+}
+
+.container-top {
+
+  font-family: Rosario;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  text-align: center;
+  color: #FFF5D3;
+  padding-top: 60px;
+  position: absolute;
+
+}
+
+.item-right {
+  
+  background: #FFF5D3;
+  border-radius: 30px;
+  width: 380px;
+  height: 200px;
+  color: #64513A;
+  font-size: 20px;
+  margin-top: 140px;
+  padding-top: 80px;
+  padding-left: 20px;
+  padding-right: 20px;
+
+}
+
+.item-right-back{
+
+  background-color: rgba(118, 156, 126, 0.6);
+  border-radius: 5px;
+
+}
+
+.item-left  {
+
+  background: #FFF5D3;
+  border-radius: 30px;
+  width: 380px;
+  height: 200px;
+  color: #64513A;
+  font-size: 20px;
+  margin-top: 140px;
+  padding-top: 80px;
+  padding-left: 20px;
+  padding-right: 30px;
+
+}
+
+.item-left-back{
+
+  background-color: rgba(118, 156, 126, 0.6);
+  border-radius: 5px;
+
+}
+
+.second-container{
+  
+  background: #FFF5D3;
+  height: 1000px;
+  font-family: Rosario;
+  font-weight: 500;
+  font-size: 36px;
+  text-align: center;
+  color: #64513A;
+  padding-top: 90px;
+
+}
+
+.second-container-back{
+
+  background: linear-gradient(transparent 90%,rgba(255, 185, 121, 0.8)90%);
+  transform: rotate(-0.53deg);
+
+
+}
+
+.second-box {
+  
+  width: 989px;
+  height: 470px;
+  background: #497753;
+  border-radius: 30px;
+  font-family: Rosario;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  color: #FFF5D3;
+  margin-top: 150px;
+  margin-left: 180px;
+  padding-top: 70px;
+  line-height: 4;
+
+}
+
+.second-box-back-one{
+
+  background: linear-gradient(transparent 90%,rgba(255, 185, 121, 0.8) 90%);
+  transform: rotate(-0.53deg);
+
+
+}
+
+.second-box-back-two{
+
+  background: linear-gradient(transparent 90%,rgba(255, 185, 121, 0.8) 90%);
+  transform: rotate(-0.53deg);
+
+}
+
+.second-box-back-three{
+
+  background: linear-gradient(transparent 90%,rgba(255, 185, 121, 0.8)90%);
+  transform: rotate(-0.53deg);
+
+}
+
+/*   Second block End   */
+
+.share  {
+
+  width: auto;
+  height: 240px;
+  left: 0px;
+  top: 2320px;
+  font-family: Rosario;
+  font-style: normal;
+  font-size: 40px;
+  line-height: 48px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.2em;
+  color: #FFF5D3;
+  background: #497753;
+}
+
+.ranking{
+
+  width: ;
+}
+
+.share-one-nomber{
+
+  width: 119.17px;
+  height: 115px;
+  left: 40.62px;
+  top: 2614px;
+  font-family: Rosario;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 80px;
+  line-height: 97px;
+  letter-spacing: 0.2em;
+  color: #497753;
+
+}
+
+.share-one{
+
+  width: auto;
+  height: 444px;
+  left: 448px;
+  top: 2560px;
+  font-family: Rosario;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+  letter-spacing: 0.2em;
+  color: #64513A;
+  background: rgba(73, 119, 83, 0.4);
+  
+}
+
+.share-two-nomber{
+
+  width: 119.17px;
+  height: 115px;
+  left: 40.62px;
+  top: 2614px;
+  font-family: Rosario;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 80px;
+  line-height: 97px;
+  letter-spacing: 0.2em;
+  color: #497753;
+
+}
+
+.share-two{
+
+  width: auto;
+  height: 444px;
+  left: 0px;
+  top: 3004px;
+  font-family: Rosario;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+  letter-spacing: 0.2em;
+  color: #64513A;
+  background: rgba(73, 119, 83, 0.25);
+}
+
+.share-three-nomber{
+
+  width: 119.17px;
+  height: 115px;
+  left: 40.62px;
+  top: 2614px;
+  font-family: Rosario;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 80px;
+  line-height: 97px;
+  letter-spacing: 0.2em;
+  color: #497753;
+
+}
+
+.share-three{
+
+  width: auto;
+  height: 444px;
+  left: 448px;
+  top: 2560px;
+  font-family: Rosario;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+  letter-spacing: 0.2em;
+  color: #64513A;
+  background: rgba(73, 119, 83, 0.4);
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  height: 50px;
+  background-color: #FFF5D3;
+  font-size: 15px;
+  color: #497753;
+}
