@@ -53,13 +53,13 @@ color:#FFF5D3;
 #second-block
 
 .title-container {
-  height: 300px;
-  width: auto;
+  height: 450px;
+  width: 100%;
   background:#FFF5D3;
-  
   display: flex;
   justify-content: center;
   align-items: center;
+  
 
 /* 憧れのスタバのカスタマイズが、あなたも気軽にできるように。 そんなアプリを使ってみませんか？ */
 
@@ -72,7 +72,6 @@ text-align: center;
 letter-spacing: 0.05em;
 color: #64513A;
 }
-
 
 .container {
   
